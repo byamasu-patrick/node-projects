@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/byamasu-patrick/node-projects#readme",
   "dependencies": {
-    "http": "^0.0.1-security"
+    "express": "^4.17.3",
+    "http": "^0.0.1-security",
+    "morgan": "^1.10.0"
   }
 }
